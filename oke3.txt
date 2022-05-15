@@ -2,3 +2,4 @@ ini file oke3.txt
 feature 3
 feature b
 feature c
+feature/rebase

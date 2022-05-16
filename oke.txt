@@ -6,3 +6,4 @@ feature c
 ubah - master
 ubah untuk rebase - master
 feature/merge-squash
+testing commit dan push ke remote

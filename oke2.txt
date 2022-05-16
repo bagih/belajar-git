@@ -3,3 +3,4 @@ feature 2
 feature a
 feature/rebase
 feature/merge-squash
+mengubah lagi file oke2.txt
